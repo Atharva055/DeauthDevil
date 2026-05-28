@@ -24,5 +24,5 @@ A cross-platform WiFi network scanner and deauthentication tool built with Pytho
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/DeauthDevil.git
+git clone https://github.com/Atharva055/DeauthDevil
 cd DeauthDevil
