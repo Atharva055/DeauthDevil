@@ -1,10 +1,10 @@
-# DeauthDevil - WiFi Security Testing Tool 🔓
+# DeauthDevil - WiFi Security Testing Tool 
 
-> ⚠️ **FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY** ⚠️
+>  **FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY** 
 
 A cross-platform WiFi network scanner and deauthentication tool built with Python. Designed for security researchers and students to understand WiFi security concepts.
 
-## ✨ Features
+##  Features
 
 - 📡 **Network Scanner** - Discover all nearby WiFi networks with detailed information
 - 👥 **Client Detection** - Identify devices connected to specific access points
@@ -13,7 +13,7 @@ A cross-platform WiFi network scanner and deauthentication tool built with Pytho
 - 🖥️ **Cross-Platform** - Works on Windows, Linux, and macOS
 - 💻 **Interactive CLI** - User-friendly command-line interface
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.6 or higher
